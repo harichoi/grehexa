@@ -1,0 +1,84 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: grehexa - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\a\LOCALS~1\Temp\RSP1D.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/grehexa.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\a\LOCALS~1\Temp\RSP1D.tmp" 
+Creating temporary file "C:\DOCUME~1\a\LOCALS~1\Temp\RSP1E.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/grehexa.pdb" /debug /machine:I386 /out:"Debug/grehexa.exe" /pdbtype:sept 
+".\Debug\grehexa.obj"
+".\Debug\grehexa.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\a\LOCALS~1\Temp\RSP1E.tmp"
+<h3>Output Window</h3>
+Compiling...
+grehexa.cpp
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(265) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(277) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(290) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(345) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(345) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(348) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(348) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(354) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(354) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(359) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(359) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(362) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(362) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(402) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(402) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(407) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(407) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(413) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(413) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(419) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(419) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(422) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(422) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(460) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(460) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(465) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(465) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(472) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(472) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(478) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(478) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(481) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(481) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(516) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(516) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(521) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(521) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(527) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(527) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(533) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(533) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(536) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(536) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(560) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(560) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(563) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(563) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(310) : warning C4101: 'max' : unreferenced local variable
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(311) : warning C4101: 'k' : unreferenced local variable
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(314) : warning C4101: 'brush' : unreferenced local variable
+C:\Documents and Settings\a\grewar\grehexa\grehexa.cpp(618) : warning C4700: local variable 'old3' used without having been initialized
+Linking...
+
+
+
+<h3>Results</h3>
+grehexa.exe - 0 error(s), 51 warning(s)
+</pre>
+</body>
+</html>
